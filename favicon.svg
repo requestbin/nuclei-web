@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="3012" height="3012" viewBox="0 0 3012 3012" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter color-interpolation-filters="sRGB" x="-2998" y="-2998" width="3000" height="3000" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix_1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" in="SourceAlpha" />
+      <feOffset dx="0" dy="4" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.251 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix_1" result="Shadow_2" />
+      <feBlend mode="normal" in="SourceGraphic" in2="Shadow_2" result="Shape_3" />
+    </filter>
+    <filter color-interpolation-filters="sRGB" x="-2078" y="-2548" width="2080" height="2550" id="filter_2">
+      <feFlood flood-opacity="0" result="BackgroundImageFix_1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" in="SourceAlpha" />
+      <feOffset dx="0" dy="4" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.251 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix_1" result="Shadow_2" />
+      <feBlend mode="normal" in="SourceGraphic" in2="Shadow_2" result="Shape_3" />
+    </filter>
+    <filter color-interpolation-filters="sRGB" x="-2998" y="-2998" width="3000" height="3000" id="filter_3">
+      <feFlood flood-opacity="0" result="BackgroundImageFix_1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" in="SourceAlpha" />
+      <feOffset dx="0" dy="4" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.251 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix_1" result="Shadow_2" />
+      <feBlend mode="normal" in="SourceGraphic" in2="Shadow_2" result="Shape_3" />
+    </filter>
+    <filter color-interpolation-filters="sRGB" x="-2118" y="-2548" width="2120" height="2550" id="filter_4">
+      <feFlood flood-opacity="0" result="BackgroundImageFix_1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" in="SourceAlpha" />
+      <feOffset dx="0" dy="4" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.251 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix_1" result="Shadow_2" />
+      <feBlend mode="normal" in="SourceGraphic" in2="Shadow_2" result="Shape_3" />
+    </filter>
+  </defs>
+  <g>
+    <path d="M2785 0C2903.76 0 3000 96.2427 3000 215L3000 2785C3000 2903.76 2903.76 3000 2785 3000L215 3000C96.2422 3000 0 2903.76 0 2785L0 215C0 96.2427 96.2422 0 215 0L2785 0Z" fill="#000000" filter="url(#filter_1)" transform="translate(6 2)" />
+    <g filter="url(#filter_2)" transform="translate(466 227)">
+      <path d="M1546.88 1049.8Q1546.87 1136.72 1525.39 1205.08Q1503.91 1273.44 1467.29 1325.68Q1430.66 1377.93 1382.81 1415.04Q1334.96 1452.15 1282.71 1476.07Q1230.47 1500 1177.25 1510.74Q1124.02 1521.48 1077.15 1521.48L1607.42 1979.49L1214.84 1979.49L685.547 1521.48L502.93 1521.48L502.93 1267.58L1077.15 1267.58Q1125 1263.67 1164.55 1247.56Q1204.1 1231.45 1232.91 1204.1Q1261.72 1176.76 1277.34 1138.18Q1292.97 1099.61 1292.97 1049.8L1292.97 889.648Q1292.97 868.164 1287.6 856.934Q1282.23 845.703 1273.93 840.332Q1265.62 834.961 1256.35 833.984Q1247.07 833.008 1239.26 833.008L401.367 833.008L401.367 1979.49L147.461 1979.49L147.461 707.031Q147.461 680.664 157.227 657.227Q166.992 633.789 184.082 616.211Q201.172 598.633 224.609 588.867Q248.047 579.102 275.391 579.102L1239.26 579.102Q1324.22 579.102 1382.81 609.863Q1441.41 640.625 1478.03 687.012Q1514.65 733.399 1530.76 787.109Q1546.87 840.82 1546.88 887.695L1546.88 1049.8ZM1947.27 1129.88L1785.16 1129.88L1748.05 637.695L1987.3 637.695L1947.27 1129.88Z" fill="#FFFFFF" />
+    </g>
+    <path d="M2785 0C2903.76 0 3000 96.2427 3000 215L3000 2785C3000 2903.76 2903.76 3000 2785 3000L215 3000C96.2422 3000 0 2903.76 0 2785L0 215C0 96.2427 96.2422 0 215 0L2785 0Z" fill="#000000" filter="url(#filter_3)" transform="translate(6 2)" />
+    <g filter="url(#filter_4)" transform="translate(466 227)">
+      <path d="M1546.88 1871.09Q1546.87 1898.44 1536.62 1921.88Q1526.37 1945.31 1509.28 1962.4Q1492.19 1979.49 1468.75 1989.26Q1445.31 1999.02 1418.95 1999.02Q1395.51 1999.02 1371.58 1990.23Q1347.66 1981.45 1329.1 1961.91L401.367 993.164L401.367 1979.49L147.461 1979.49L147.461 687.5Q147.461 648.438 169.434 616.699Q191.406 584.961 225.586 569.336Q261.719 554.688 299.805 562.012Q337.891 569.336 365.234 597.656L1292.97 1565.43L1292.97 579.102L1546.88 579.102L1546.88 1871.09ZM1987.3 1129.88L1825.2 1129.88L1788.09 637.695L2027.34 637.695L1987.3 1129.88Z" fill="#FFFFFF" />
+    </g>
+  </g>
+</svg>
